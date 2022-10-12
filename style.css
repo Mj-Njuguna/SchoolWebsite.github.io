@@ -218,7 +218,7 @@
    
 }
 
-@media screen and (max-width: 968px) {
+@media screen and (max-width: 480px) {
     .navbar__container {
         display: flex;
         justify-content: space-between;
@@ -241,6 +241,9 @@
         height: 80vh;
         z-index: -1;
         
+    }
+    .more-item{
+        display: block;
     }
     .navbar__menu.active {
         background: #dadada;

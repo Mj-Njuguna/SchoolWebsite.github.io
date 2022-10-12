@@ -248,12 +248,13 @@
         left: 50%;
         top: 50%;
         transform: translate(-50%, -50%);
-        margin: 980px 0px 40px;
+        margin-top: 980px;
     
         
     }
     .head-teacher-message{
         width: 80vw;
+        margin-top:40px ;
         
         
     }

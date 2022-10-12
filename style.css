@@ -218,7 +218,7 @@
    
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 968px) {
     .navbar__container {
         display: flex;
         justify-content: space-between;
@@ -244,7 +244,21 @@
     }
     .more-item{
         display: block;
+        width: 80vh;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        
     }
+    .head-teacher-message{
+        width: 100%;
+        
+    }
+    .ourstory{
+    width: 100%;
+}
+
     .navbar__menu.active {
         background: #dadada;
         top: 100%;

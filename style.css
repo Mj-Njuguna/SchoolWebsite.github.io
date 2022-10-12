@@ -243,9 +243,10 @@
         
     }
     .more-item{
-        margin: 40px;
+        /* margin-top: 620px;
+        height: 100px; */
         display: block;
-        width: 80vh;
+        width: 100vh;
         position: absolute;
         left: 50%;
         top: 50%;
@@ -255,9 +256,11 @@
     .head-teacher-message{
         width: 80%;
         margin: 20px;
+        height: auto;
     }
     .ourstory{
     width: 80%;
+    height: auto;
 }
 
     .navbar__menu.active {

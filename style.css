@@ -192,8 +192,7 @@
 }
 .more-item{
     display: flex;
-    align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     margin-top: 620px;
     transition: 1s;
 }

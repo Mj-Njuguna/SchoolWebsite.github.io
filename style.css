@@ -10,6 +10,8 @@
     height: 100%;
     margin: 0;
     overflow: hidden;
+    display:block;
+    border: 2px solid green;
 }
 .navbar {
 

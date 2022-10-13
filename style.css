@@ -170,17 +170,17 @@
     border: 2px solid green;
     padding: 20px;
     align-self:center;
-    transition: 1s;
+    transition: 2s;
 }
 .ourstory h1{
     color: #ff0844;
     padding: 15px;
 }
 .ourstory:hover{
-    transform:scale(1.3);
+    transform:scale(1);
 }
 .head-teacher-message:hover{
-    transform:scale(1.3);
+    transform:scale(1);
 }
 .head-teacher-message{
     margin: 20px;
@@ -189,7 +189,7 @@
     height: 80%;
     border: 2px solid green;
     padding: 20px;
-    transition: 1s;
+    transition: 2s;
 }
 .head-teacher-message h1{
     color: #ff0844;

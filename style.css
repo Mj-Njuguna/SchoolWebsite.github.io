@@ -179,7 +179,7 @@
     padding: 15px;
 }
 .ourstory:hover{
-    transform:scale(-0.5);
+    transform:scale(0.9);
 }
 .head-teacher-message:hover{
     transform:scale(0.5);

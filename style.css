@@ -171,6 +171,7 @@
     padding: 20px;
     align-self:center;
     transition: 2s;
+    cursor: pointer;
 }
 .ourstory h1{
     color: #ff0844;
@@ -190,6 +191,7 @@
     border: 2px solid green;
     padding: 20px;
     transition: 2s;
+    cursor: pointer;
 }
 .head-teacher-message h1{
     color: #ff0844;
@@ -198,7 +200,7 @@
 .more-item{
     display: flex;
     justify-content: center;
-    margin-top: 680px;
+    margin-top: 780px;
     
 }
 .details{

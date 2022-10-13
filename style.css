@@ -179,10 +179,10 @@
     padding: 15px;
 }
 .ourstory:hover{
-    transform:scale(1) !important;
+    transform:scale(1);
 }
 .head-teacher-message:hover{
-    transform:scale(1) !important;
+    transform:scale(1);
 }
 .head-teacher-message{
     margin: 20px; 
@@ -191,7 +191,6 @@
     border: 2px solid green;
     padding: 20px;
     transition: 2s;
-    cursor: pointer;
 }
 .head-teacher-message h1{
     color: #ff0844;
@@ -201,8 +200,7 @@
     display: flex;
     justify-content: center;
     margin-top: 640px;
-    cursor: pointer;
-    transition: 2s !important;
+    transition: 2s;
     
 }
 .details{

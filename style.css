@@ -177,10 +177,10 @@
     padding: 15px;
 }
 .ourstory:hover{
-    transform:scale(1);
+    transform:scale(1) !important;
 }
 .head-teacher-message:hover{
-    transform:scale(1);
+    transform:scale(1) !important;
 }
 .head-teacher-message{
    
@@ -200,6 +200,7 @@
     justify-content: center;
     margin-top: 780px;
     cursor: pointer;
+    transition: 2s !important;
     
 }
 .details{

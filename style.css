@@ -165,7 +165,7 @@
     width: 100%;
 }
 .ourstory{
-   
+    margin: 20px;
     width: 40%;
     height: 80%;
     border: 2px solid green;
@@ -185,7 +185,7 @@
     transform:scale(1) !important;
 }
 .head-teacher-message{
-   
+    margin: 20px; 
     width: 40%;
     height: 80%;
     border: 2px solid green;
@@ -200,7 +200,7 @@
 .more-item{
     display: flex;
     justify-content: center;
-    margin-top: 780px;
+    margin-top: 680px;
     cursor: pointer;
     transition: 2s !important;
     

@@ -200,7 +200,7 @@
 .more-item{
     display: flex;
     justify-content: center;
-    margin-top: 680px;
+    margin-top: 640px;
     cursor: pointer;
     transition: 2s !important;
     

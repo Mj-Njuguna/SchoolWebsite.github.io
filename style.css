@@ -176,13 +176,13 @@
 }
 .ourstory h1{
     color: #ff0844;
-    padding: 13px;
+    padding: 15px;
 }
 .ourstory:hover{
-    transform:scale(1.2);
+    transform:scale(1.1);
 }
 .head-teacher-message:hover{
-    transform:scale(1.2);
+    transform:scale(1.1);
 }
 .head-teacher-message{
     margin: 20px; 

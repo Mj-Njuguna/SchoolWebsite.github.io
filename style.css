@@ -243,7 +243,7 @@ ul{
 .footer{
     display: flex;
     justify-content: center;
-    margin-top: 670px;
+    margin-top: 300px;
 	background-color: #24262b;
     padding: 70px 0;
 }

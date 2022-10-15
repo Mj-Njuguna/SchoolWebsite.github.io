@@ -153,7 +153,7 @@ body{
     position:absolute;
     left: 0;
     top: 75px;
-    height: 600px;
+    height: 1000px;
     align-items: center;
     width: 100%;
     animation: animate 70s ease-in-out infinite;
@@ -245,6 +245,7 @@ ul{
     padding: 70px 0;
     position: absolute;
     bottom: 0px;
+    margin-top:720px ;
 }
 .footer-col{
    width: 25%;

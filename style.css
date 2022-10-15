@@ -231,7 +231,7 @@ body{
 
 .container-footer{
 	max-width: 100vw;
-    margin-top: 40px;
+    margin-top: 10px;
 }
 .row{
 	display: flex;
@@ -243,7 +243,7 @@ ul{
 .footer{
     display: flex;
     justify-content: center;
-    margin-top: 700px;
+    margin-top: 200px;
 	background-color: #24262b;
     padding: 70px 0;
 }

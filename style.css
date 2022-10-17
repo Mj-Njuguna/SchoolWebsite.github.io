@@ -308,11 +308,18 @@ ul{
   .footer-col{
     width: 50%;
     margin-bottom: 30px;
+    
+}
+.footer{
+    margin-top: 80px;
 }
 }
 @media(max-width: 574px){
   .footer-col{
     width: 100%;
+}
+.footer{
+    margin-top: 80px;
 }
 }
 

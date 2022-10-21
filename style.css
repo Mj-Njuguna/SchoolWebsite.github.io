@@ -409,7 +409,8 @@ ul{
         
     }
     .footer{
-        margin-top: 900px;
+        position: relative;
+        bottom: 0;
     }
 
 }

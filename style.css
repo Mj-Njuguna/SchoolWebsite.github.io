@@ -89,6 +89,7 @@
     align-items: center;
     position: absolute;
     bottom: 12px !important; 
+    background-blend-mode: #010;
 }
 .row{
 	display: flex;

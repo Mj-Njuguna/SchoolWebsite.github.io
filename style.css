@@ -83,7 +83,7 @@
    
 }
 
-.container-footer{
+.footer{
 	max-width: auto;
     position: relative;
     bottom: 0;
@@ -95,12 +95,6 @@
 }
 ul{
 	list-style: none;
-}
-.footer{
-    position: absolute;
-    background-color: #24262b;
-    z-index: 1;
-    
 }
 .footer-col{
    width: 25%;
